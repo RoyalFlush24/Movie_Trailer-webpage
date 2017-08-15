@@ -4,7 +4,7 @@ As part of Udacity full stack web developer program, I am required to write a RE
 Before we get started, we use a program called fresh_tomatoes.py to help us run the web page. It can easily be downloaded online via a google search, or you can get it from this repository. The program, fresh_tomatoes, helps us display our code in an HTML format. It requres python 2.7.x and above in order to run. 
 * You can download python 2.7.x or 3.6.x [here](https://www.python.org/downloads/) to help you see the code in its raw format. 
 * The source code for the program can be obtained at https://github.com/RoyalFlush24/Movie_Trailer-webpage.
-* Next, click on 'clone or download' this repository to get all the necessary files needed to see the movie trailer web page.
+* Next, click on 'clone or download'. This repository will equip you with all the necessary files needed to see the movie trailer web page.
 
 Once you finish those steps, the next thing to do is unzip all the files, and save them into your machine's directory. (CAUTION) follow system documentation on how to do this.
 At this point you should have everything you need in order to get started: python, fresh_tomatoes.py, media.py, and entertainment_center.py. All these should be store in a folder called movie.
