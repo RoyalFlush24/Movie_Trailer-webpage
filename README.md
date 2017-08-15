@@ -1,5 +1,5 @@
 # Movie Trailer Website
-As part of Udacity full stack web developer program, I am require to write a README file. Here are my instruction on how to get it to run on your machine.
+As part of Udacity full stack web developer program, I am required to write a README file. Here are my instructions on how to get it to run on your machine.
 # Instructions
 Before we get started we use a program called fresh_tomatoes.py to help us run the web page, it can easily be downloaded online via a google search or you can get it from this repository. The program fresh_tomatoes help us display our code in an HTML format. It requre python 2.7.x and above in order to run. 
 * You can download python 2.7.x or 3.6.x [here](https://www.python.org/downloads/) to help you see the code in its raw format. 
